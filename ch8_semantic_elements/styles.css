@@ -1,0 +1,43 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+background: #f9f9f9;
+color: #333;
+}
+header {
+background: #4CAF50;
+color: white;
+padding: 1em;
+}
+nav ul {
+list-style: none;
+display: flex;
+gap: 1em;
+padding: 0;
+}
+nav a {
+color: white;
+text-decoration: none;
+}
+section {
+padding: 2em;
+}
+form {
+display: flex;
+flex-direction: column;
+gap: 1em;
+}
+button {
+padding: 0.5em;
+background: #4CAF50;
+color: white;
+border: none;
+cursor: pointer;
+}
+button:hover {
+background: #45a049;
+}
+```
+
+
+---
